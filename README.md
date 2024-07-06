@@ -1,4 +1,4 @@
-JWT Authentication Backend using GoLang and Gin Gonic.
+𝐉𝐖𝐓 𝐀𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐮𝐬𝐢𝐧𝐠 𝐆𝐨𝐋𝐚𝐧𝐠 𝐚𝐧𝐝 𝐆𝐢𝐧 𝐆𝐨𝐧𝐢𝐜.
 
 This project demonstrates a full-fledged JWT authentication backend using GoLang and Gin Gonic framework with MongoDB Atlas for database storage.
 
